@@ -1,0 +1,4 @@
+const proc: main is func
+begin
+  writeln("Hello World!");
+end func;
